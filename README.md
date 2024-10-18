@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DIVYADHARSHINI1906
-- 👀 I’m interested in to develop the web or the mobile application
+- 👀 I’m interested to know more about Artifical Intelligence
 - 🌱 I’m currently learning BE Computer Science Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email
