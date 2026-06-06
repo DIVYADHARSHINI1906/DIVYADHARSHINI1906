@@ -1,24 +1,24 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DIVYADHARSHINI%20B&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=42&desc=Frontend%20Developer%20%26%20Full%20Stack%20Engineer&descAlignY=67&descSize=18&fontStyle=bold" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=220&amp;section=header&amp;text=DIVYADHARSHINI%20B&amp;fontSize=62&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=42&amp;desc=Frontend%20Developer%20%26%20Full%20Stack%20Engineer&amp;descAlignY=67&amp;descSize=18&amp;fontStyle=bold" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=750&lines=Crafting+responsive+web+experiences+%F0%9F%92%BB;React.js+%7C+Firebase+%7C+PostgreSQL+%7C+Bootstrap;Smart+India+Hackathon+2024+%E2%80%94+National+Level+%F0%9F%87%AE%F0%9F%87%B3;MSME+Recognised+%7C+GDG+AI%2FML+Lead+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=800&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Crafting+responsive+web+experiences+%F0%9F%92%BB;React.js+%7C+Firebase+%7C+PostgreSQL+%7C+Bootstrap;Smart+India+Hackathon+2024+%E2%80%94+National+Level+%F0%9F%87%AE%F0%9F%87%B3;MSME+Recognised+%7C+GDG+AI%2FML+Lead+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=DIVYADHARSHINI1906">
-    <img src="https://komarev.com/ghpvc/?username=DIVYADHARSHINI1906&label=Profile+Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=DIVYADHARSHINI1906&amp;label=Profile+Views&amp;color=0e75b6&amp;style=flat" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/divyadharshini-b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&amp;logo=linkedin&amp;logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:divyadharshinibharaniraj19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=flat&amp;logo=gmail&amp;logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-38bdae?style=flat" />
@@ -31,21 +31,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIVYADHARSHINI1906&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIVYADHARSHINI1906&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYADHARSHINI1906&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIVYADHARSHINI1906&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DIVYADHARSHINI1906&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=DIVYADHARSHINI1906&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYADHARSHINI1906&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DIVYADHARSHINI1906&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true" />
 </div>
 
 ---
@@ -238,7 +238,7 @@ const divyadharshini = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Open+to+frontend+%26+full+stack+opportunities+%F0%9F%9A%80;Let's+connect+and+build+something+great+%F0%9F%A4%9D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=14&amp;pause=1000&amp;color=38BDAE&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Open+to+frontend+%26+full+stack+opportunities+%F0%9F%9A%80;Let's+connect+and+build+something+great+%F0%9F%A4%9D" />
 
 <br/>
 
@@ -254,6 +254,6 @@ const divyadharshini = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=130&amp;section=footer&amp;animation=twinkling" />
 
 </div>
